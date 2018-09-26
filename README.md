@@ -1,3 +1,4 @@
 # deneme
 
-bu bir deneme projesidir
+test repo
+
