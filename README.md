@@ -1,5 +1,3 @@
 # deneme
 
-test reposu deniyorum
-
-
+test reposu
